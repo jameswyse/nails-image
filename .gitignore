@@ -1,0 +1,18 @@
+# Extensions
+*.tmp
+*.log
+*.out
+*.pid
+*.dat
+*.pyc
+*.sublime-*
+
+# Folders
+tmp/
+logs/
+build/
+node_modules/
+bower_components/
+
+# Files
+.DS_Store

@@ -1,0 +1,35 @@
+{
+  "name": "nails-image",
+  "version": "0.0.1",
+  "description": "Image manipulation service using GraphicsMagick or ImageMagick. Plugin for nails-framework",
+  "main": "lib/plugin.js",
+  "dependencies": {
+    "gm": "^1.17.0",
+    "needle": "^0.9.1",
+    "wreck": "^5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nails/nails-image"
+  },
+  "keywords": [
+    "nails",
+    "nails-framework",
+    "nails-plugin",
+    "gm",
+    "image",
+    "service",
+    "graphicsmagick",
+    "imagemagick",
+    "resize",
+    "overlay"
+  ],
+  "author": "James Wyse <james@jameswyse.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nails/nails-image/issues"
+  },
+  "homepage": "https://github.com/nails/nails-image"
+}

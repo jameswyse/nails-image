@@ -1,0 +1,17 @@
+# Prefixes
+.*
+__*
+
+# Folders
+docs/
+notes/
+example*/
+
+# Files
+MakeFile
+gulpfile.js
+gruntfile.js
+CONTRIBUTING*
+CHANGELOG*
+README*
+HISTORY*
