@@ -4,6 +4,7 @@
   "description": "Image manipulation service using GraphicsMagick or ImageMagick. Plugin for nails-framework",
   "main": "lib/plugin.js",
   "dependencies": {
+    "fallback-stream": "^1.1.0",
     "gm": "^1.17.0",
     "needle": "^0.9.1",
     "wreck": "^5.3.0"
