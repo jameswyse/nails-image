@@ -1,9 +1,10 @@
 {
   "name": "nails-image",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Image manipulation service using GraphicsMagick or ImageMagick. Plugin for nails-framework",
   "main": "lib/plugin.js",
   "dependencies": {
+    "aws-sdk": "^2.1.20",
     "fallback-stream": "^1.1.0",
     "gm": "^1.17.0",
     "needle": "^0.9.1",
