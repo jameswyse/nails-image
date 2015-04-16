@@ -1,6 +1,6 @@
 {
   "name": "nails-image",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Image manipulation service using GraphicsMagick or ImageMagick. Plugin for nails-framework",
   "main": "lib/plugin.js",
   "dependencies": {
